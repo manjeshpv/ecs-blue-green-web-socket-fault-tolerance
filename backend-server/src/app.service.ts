@@ -9,6 +9,15 @@ export class AppService {
 <html>
   <body>
     <h3>Right click and Inspect → Console tab</h3>
+    
+    <pre>
+        <code>
+            npm start;
+            # Ctrl + C to stop nestjs socket server
+            # Again start using
+            npm start
+        </code>
+    </pre>
   </body>
 
   <script type="module">
